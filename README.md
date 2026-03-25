@@ -1,5 +1,4 @@
-InShot_20260325_184346717[1].mp4
-![Video Description](InShot_20260325_184346717[1].mp4)
-<video src="InShot_20260325_184346717[1].mp4" controls="controls" style="max-width: 100%;">
+<video width="100%" controls>
+  <source src="https://github.com/Prabhatl0dhi/intro_video/blob/main/InShot_20260325_184346717%5B1%5D.mp4?raw=true" type="video/mp4">
   Your browser does not support the video tag.
 </video>
